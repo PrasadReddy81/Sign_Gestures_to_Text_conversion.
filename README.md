@@ -16,3 +16,15 @@ MediaPipe is an open-source, cross-platform framework developed by Google, desig
 TensorFlow is an open-source library developed by Google's Brain Team for machine learning and deep learning. It supports a wide range of tasks, with a particular emphasis on deep neural networks.
 
 Neural networks, or artificial neural networks, are a subset of machine learning and form the core of deep learning algorithms. Inspired by the human brain, these networks mimic the way biological neurons communicate. They consist of node layers, including an input layer, one or more hidden layers, and an output layer.
+
+the steps for solving the project:
+
+Load Required Libraries: Import the essential libraries needed for the project.
+
+Set Up Models: Initialize the models that will be used for processing.
+
+Capture Video Frames: Access and read frames from a webcam.
+
+Identify Hand Keypoints: Detect keypoints on the hand in each frame.
+
+Interpret Hand Gestures: Analyze the detected hand keypoints to recognize specific gestures.
