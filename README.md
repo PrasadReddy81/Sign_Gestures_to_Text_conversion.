@@ -5,7 +5,7 @@
 
 Hand gesture recognition is a rapidly evolving field within Human-Computer Interaction technology, with applications spanning virtual environment control, sign language translation, robot control, and even music creation. In this machine learning project, we'll develop a real-time Hand Gesture Recognizer using the MediaPipe framework in conjunction with TensorFlow and OpenCV in Python.
 
-[git add .png](https://github.com/PrasadReddy81/Sign_Gestures_to_Text_conversion./blob/main/nn1--2-.png)
+(https://github.com/PrasadReddy81/Sign_Gestures_to_Text_conversion./blob/main/nn1--2-.png)
 
 
 ## What is MediaPipe? 
